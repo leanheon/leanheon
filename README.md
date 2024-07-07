@@ -20,7 +20,7 @@
 </p>
 
 <a href="https://romela.imweb.me/"><img src="https://img.shields.io/badge/Romela-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white"/></a>
-<a href="https://https://blog.naver.com/epogood58"><img src="https://img.shields.io/badge/BLOG-03C75A?style=for-the-badge&logo=NAVER&logoColor=FFFFFF"/></a>
+<a href="https://blog.naver.com/epogood58"><img src="https://img.shields.io/badge/BLOG-03C75A?style=for-the-badge&logo=NAVER&logoColor=FFFFFF"/></a>
 <a href="mailto:epogood58@naver.com"><img src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://instagram.com/leanheon"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 </p>
